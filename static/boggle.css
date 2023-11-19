@@ -2,7 +2,7 @@
   border: solid 1px black;
   font-family: monospace;
   font-weight: bold;
-  font-size: 200%;
+  font-size: 205%;
 }
 
 .board td {
@@ -12,7 +12,7 @@
 }
 
 .msg {
-  padding: 1em;
+  padding: .99em;
 }
 
 .msg.ok {
